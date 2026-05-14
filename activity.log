@@ -1,0 +1,272 @@
+[5/13/2026, 7:31:12 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 7:31:13 PM] Error: Command failed
+[5/13/2026, 7:31:13 PM] --- Session Finished ---
+[5/13/2026, 7:33:12 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 7:33:13 PM] Error: Command failed
+[5/13/2026, 7:33:13 PM] --- Session Finished ---
+[5/13/2026, 7:35:12 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 7:35:12 PM] Error: Command failed
+[5/13/2026, 7:35:12 PM] --- Session Finished ---
+[5/13/2026, 7:37:12 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 7:37:13 PM] Error: Command failed
+[5/13/2026, 7:37:13 PM] --- Session Finished ---
+[5/13/2026, 7:39:12 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 7:39:13 PM] Error: Command failed
+[5/13/2026, 7:39:13 PM] --- Session Finished ---
+[5/13/2026, 7:41:12 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 7:41:12 PM] Error: Command failed
+[5/13/2026, 7:41:12 PM] --- Session Finished ---
+[5/13/2026, 7:43:12 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 7:43:12 PM] Error: Command failed
+[5/13/2026, 7:43:12 PM] --- Session Finished ---
+[5/13/2026, 7:45:12 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 7:45:12 PM] Error: Command failed
+[5/13/2026, 7:45:12 PM] --- Session Finished ---
+[5/13/2026, 7:47:12 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 7:47:12 PM] Error: Command failed
+[5/13/2026, 7:47:12 PM] --- Session Finished ---
+[5/13/2026, 7:49:12 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 7:49:12 PM] Error: Command failed
+[5/13/2026, 7:49:12 PM] --- Session Finished ---
+[5/13/2026, 7:51:12 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 7:51:13 PM] Error: Command failed
+[5/13/2026, 7:51:13 PM] --- Session Finished ---
+[5/13/2026, 10:19:22 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 10:19:24 PM] Error: Command failed
+[5/13/2026, 10:19:24 PM] --- Session Finished ---
+[5/13/2026, 10:21:22 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 10:21:25 PM] Error: Command failed
+[5/13/2026, 10:21:25 PM] --- Session Finished ---
+[5/13/2026, 10:23:22 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 10:23:24 PM] Error: Command failed
+[5/13/2026, 10:23:24 PM] --- Session Finished ---
+[5/13/2026, 10:25:22 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 10:25:23 PM] Error: Command failed
+[5/13/2026, 10:25:23 PM] --- Session Finished ---
+[5/13/2026, 10:27:22 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 10:27:23 PM] Error: Command failed
+[5/13/2026, 10:27:23 PM] --- Session Finished ---
+[5/13/2026, 10:29:22 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 10:29:24 PM] Error: Command failed
+[5/13/2026, 10:29:24 PM] --- Session Finished ---
+[5/13/2026, 10:31:22 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 10:31:24 PM] Error: Command failed
+[5/13/2026, 10:31:24 PM] --- Session Finished ---
+[5/13/2026, 10:33:22 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 10:33:25 PM] Error: Command failed
+[5/13/2026, 10:33:25 PM] --- Session Finished ---
+[5/13/2026, 10:35:22 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 10:35:24 PM] Error: Command failed
+[5/13/2026, 10:35:24 PM] --- Session Finished ---
+[5/13/2026, 10:37:22 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 10:37:24 PM] Error: Command failed
+[5/13/2026, 10:37:24 PM] --- Session Finished ---
+[5/13/2026, 10:39:22 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 10:39:24 PM] Error: Command failed
+[5/13/2026, 10:39:24 PM] --- Session Finished ---
+[5/13/2026, 10:41:22 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 10:41:23 PM] Error: Command failed
+[5/13/2026, 10:41:23 PM] --- Session Finished ---
+[5/13/2026, 10:47:38 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 10:47:40 PM] Error: Command failed
+[5/13/2026, 10:47:40 PM] --- Session Finished ---
+[5/13/2026, 10:49:38 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 10:49:40 PM] Error: Command failed
+[5/13/2026, 10:49:40 PM] --- Session Finished ---
+[5/13/2026, 10:54:33 PM] --- Checking Inbox for New Threads ---
+[5/13/2026, 10:54:33 PM] Error: getaddrinfo ENOTFOUND outlook.office365.com
+[5/14/2026, 12:34:08 PM] --- Checking Inbox for New Threads ---
+[5/14/2026, 12:34:12 PM] Error: client.list(...) is not a function or its return value is not async iterable
+[5/14/2026, 12:34:13 PM] --- Session Finished ---
+[5/14/2026, 12:34:51 PM] --- Checking Inbox for New Threads ---
+[5/14/2026, 12:34:55 PM] Error: client.list(...) is not a function or its return value is not async iterable
+[5/14/2026, 12:34:56 PM] --- Session Finished ---
+[5/14/2026, 12:42:57 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:42:58 PM] No new emails with a valid ID found.
+[5/14/2026, 12:42:58 PM] --- Session Finished ---
+[5/14/2026, 12:43:57 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:43:58 PM] No new emails with a valid ID found.
+[5/14/2026, 12:43:58 PM] --- Session Finished ---
+[5/14/2026, 12:44:57 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:44:58 PM] No new emails with a valid ID found.
+[5/14/2026, 12:44:58 PM] --- Session Finished ---
+[5/14/2026, 12:45:13 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:45:14 PM] New ID Found: id-1324
+[5/14/2026, 12:45:14 PM] SUCCESS: Identity Verified. Token TK-94489 is ready for id-1324
+[5/14/2026, 12:45:14 PM] --- Session Finished ---
+[5/14/2026, 12:46:13 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:46:14 PM] New ID Found: id-1324
+[5/14/2026, 12:46:14 PM] SUCCESS: Identity Verified. Token TK-96824 is ready for id-1324
+[5/14/2026, 12:46:14 PM] --- Session Finished ---
+[5/14/2026, 12:47:13 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:47:15 PM] New ID Found: id-1324
+[5/14/2026, 12:47:15 PM] SUCCESS: Identity Verified. Token TK-35538 is ready for id-1324
+[5/14/2026, 12:47:15 PM] --- Session Finished ---
+[5/14/2026, 12:48:13 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:48:14 PM] No new emails with a valid ID found.
+[5/14/2026, 12:48:14 PM] --- Session Finished ---
+[5/14/2026, 12:49:13 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:49:14 PM] No new emails with a valid ID found.
+[5/14/2026, 12:49:14 PM] --- Session Finished ---
+[5/14/2026, 12:49:37 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:49:38 PM] --- Session Finished ---
+[5/14/2026, 12:50:07 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:50:08 PM] --- Session Finished ---
+[5/14/2026, 12:50:37 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:50:43 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:50:44 PM] --- Session Finished ---
+[5/14/2026, 12:51:13 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:51:14 PM] --- Session Finished ---
+[5/14/2026, 12:51:46 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:51:47 PM] New Request Identified: ID-8282 from ahnafsadik014048@gmail.com
+[5/14/2026, 12:51:52 PM] SUCCESS: Token [TK-15537] sent to ahnafsadik014048@gmail.com
+[5/14/2026, 12:51:52 PM] --- Session Finished ---
+[5/14/2026, 12:52:16 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:52:17 PM] --- Session Finished ---
+[5/14/2026, 12:52:46 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:52:47 PM] --- Session Finished ---
+[5/14/2026, 12:53:16 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:53:17 PM] --- Session Finished ---
+[5/14/2026, 12:53:46 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:53:48 PM] --- Session Finished ---
+[5/14/2026, 12:54:16 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:54:17 PM] --- Session Finished ---
+[5/14/2026, 12:54:46 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:54:48 PM] --- Session Finished ---
+[5/14/2026, 12:55:21 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:55:22 PM] --- Session Finished ---
+[5/14/2026, 12:55:51 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:55:51 PM] System Error: 
+[5/14/2026, 12:55:51 PM] --- Session Finished ---
+[5/14/2026, 12:56:21 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:56:22 PM] --- Session Finished ---
+[5/14/2026, 12:56:54 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:56:55 PM] New Request Identified: ID-35261 from saad35-892@diu.edu.bd
+[5/14/2026, 12:57:00 PM] SUCCESS: Token [TK-76690] sent to saad35-892@diu.edu.bd
+[5/14/2026, 12:57:00 PM] New Request Identified: ID-8282 from ahnafsadik014048@gmail.com
+[5/14/2026, 12:57:05 PM] SUCCESS: Token [TK-68295] sent to ahnafsadik014048@gmail.com
+[5/14/2026, 12:57:05 PM] --- Session Finished ---
+[5/14/2026, 12:57:24 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:57:25 PM] --- Session Finished ---
+[5/14/2026, 12:57:54 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:57:56 PM] --- Session Finished ---
+[5/14/2026, 12:58:24 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:58:25 PM] --- Session Finished ---
+[5/14/2026, 12:58:54 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:58:56 PM] --- Session Finished ---
+[5/14/2026, 12:59:24 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:59:25 PM] --- Session Finished ---
+[5/14/2026, 12:59:54 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 12:59:55 PM] System Error: 
+[5/14/2026, 12:59:55 PM] --- Session Finished ---
+[5/14/2026, 1:02:20 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:02:21 PM] System Error: 
+[5/14/2026, 1:02:21 PM] --- Session Finished ---
+[5/14/2026, 1:04:26 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:04:26 PM] System Error: 
+[5/14/2026, 1:04:26 PM] --- Session Finished ---
+[5/14/2026, 1:04:56 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:04:56 PM] System Error: 
+[5/14/2026, 1:04:56 PM] --- Session Finished ---
+[5/14/2026, 1:05:26 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:05:32 PM] New Request Identified: ID-35261 from saad35-892@diu.edu.bd
+[5/14/2026, 1:05:45 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:05:46 PM] System Error: 
+[5/14/2026, 1:05:46 PM] --- Session Finished ---
+[5/14/2026, 1:06:15 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:06:16 PM] System Error: 
+[5/14/2026, 1:06:16 PM] --- Session Finished ---
+[5/14/2026, 1:06:45 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:06:46 PM] System Error: 
+[5/14/2026, 1:06:46 PM] --- Session Finished ---
+[5/14/2026, 1:07:00 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:07:09 PM] New Request Identified: ID-3113 from saad016420@yahoo.com
+[5/14/2026, 1:07:17 PM] SUCCESS: Token [TK-24495] sent to saad016420@yahoo.com
+[5/14/2026, 1:07:17 PM] New Request Identified: ID-35261 from saad35-892@diu.edu.bd
+[5/14/2026, 1:07:29 PM] SUCCESS: Token [TK-42332] sent to saad35-892@diu.edu.bd
+[5/14/2026, 1:07:29 PM] New Request Identified: ID-8282 from ahnafsadik014048@gmail.com
+[5/14/2026, 1:07:30 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:07:31 PM] System Error: 
+[5/14/2026, 1:07:31 PM] --- Session Finished ---
+[5/14/2026, 1:07:39 PM] SUCCESS: Token [TK-96385] sent to ahnafsadik014048@gmail.com
+[5/14/2026, 1:07:39 PM] --- Session Finished ---
+[5/14/2026, 1:08:00 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:08:04 PM] --- Session Finished ---
+[5/14/2026, 1:08:30 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:08:31 PM] System Error: 
+[5/14/2026, 1:08:31 PM] --- Session Finished ---
+[5/14/2026, 1:09:00 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:09:01 PM] System Error: 
+[5/14/2026, 1:09:01 PM] --- Session Finished ---
+[5/14/2026, 1:09:30 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:09:31 PM] System Error: 
+[5/14/2026, 1:09:31 PM] --- Session Finished ---
+[5/14/2026, 1:10:00 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:10:01 PM] System Error: 
+[5/14/2026, 1:10:01 PM] --- Session Finished ---
+[5/14/2026, 1:10:30 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:10:32 PM] --- Session Finished ---
+[5/14/2026, 1:11:00 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:11:01 PM] System Error: 
+[5/14/2026, 1:11:01 PM] --- Session Finished ---
+[5/14/2026, 1:11:30 PM] --- Checking Inbox via Feed (No IMAP Required) ---
+[5/14/2026, 1:11:49 PM] --- Checking Inbox for New Threads ---
+[5/14/2026, 1:12:01 PM] SUCCESS: Replied to ahnafsadik014048@gmail.com for ID-8282
+[5/14/2026, 1:12:01 PM] --- Session Finished ---
+[5/14/2026, 1:12:19 PM] --- Checking Inbox for New Threads ---
+[5/14/2026, 1:12:33 PM] SUCCESS: Replied to ahnafsadik01857@gmail.com for ID-8282
+[5/14/2026, 1:12:33 PM] --- Session Finished ---
+[5/14/2026, 1:12:49 PM] --- Checking Inbox for New Threads ---
+[5/14/2026, 1:13:01 PM] SUCCESS: Replied to ahnafsadik01857@gmail.com for ID-8282
+[5/14/2026, 1:13:18 PM] SUCCESS: Replied to ahnafsadik016420@gmail.com for ID-2131
+[5/14/2026, 1:13:18 PM] --- Session Finished ---
+[5/14/2026, 1:13:19 PM] --- Checking Inbox for New Threads ---
+[5/14/2026, 1:13:30 PM] SUCCESS: Replied to ahnafsadik01857@gmail.com for ID-8282
+[5/14/2026, 1:13:40 PM] SUCCESS: Replied to ahnafsadik01857@gmail.com for ID-2131
+[5/14/2026, 1:13:40 PM] --- Session Finished ---
+[5/14/2026, 1:13:49 PM] --- Checking Inbox for New Threads ---
+[5/14/2026, 1:13:59 PM] SUCCESS: Replied to ahnafsadik01857@gmail.com for ID-2131
+[5/14/2026, 1:14:07 PM] SUCCESS: Replied to ahnafsadik01857@gmail.com for ID-8282
+[5/14/2026, 1:14:07 PM] --- Session Finished ---
+[5/14/2026, 1:14:19 PM] --- Checking Inbox for New Threads ---
+[5/14/2026, 1:14:19 PM] System Error: 
+[5/14/2026, 1:14:19 PM] --- Session Finished ---
+[5/14/2026, 1:14:49 PM] --- Checking Inbox for New Threads ---
+[5/14/2026, 1:14:49 PM] System Error: 
+[5/14/2026, 1:14:49 PM] --- Session Finished ---
+[5/14/2026, 1:15:19 PM] --- Checking Inbox for New Threads ---
+[5/14/2026, 1:15:19 PM] System Error: 
+[5/14/2026, 1:15:19 PM] --- Session Finished ---
+[5/14/2026, 1:15:49 PM] --- Checking Inbox for New Threads ---
+[5/14/2026, 1:15:49 PM] System Error: 
+[5/14/2026, 1:15:49 PM] --- Session Finished ---
+[5/14/2026, 1:16:19 PM] --- Checking Inbox for New Threads ---
+[5/14/2026, 1:16:19 PM] System Error: 
+[5/14/2026, 1:16:19 PM] --- Session Finished ---
+[5/14/2026, 1:16:49 PM] --- Checking Inbox for Threaded Replies ---
+[5/14/2026, 1:16:50 PM] System Error: 
+[5/14/2026, 1:16:50 PM] --- Session Finished ---
+[5/14/2026, 1:17:19 PM] --- Checking Inbox for Threaded Replies ---
+[5/14/2026, 1:17:27 PM] SUCCESS: Threaded reply sent to ahnafsadik016420@gmail.com
+[5/14/2026, 1:17:32 PM] SUCCESS: Threaded reply sent to ahnafsadik01857@gmail.com
+[5/14/2026, 1:17:39 PM] SUCCESS: Threaded reply sent to ahnafsadik01857@gmail.com
+[5/14/2026, 1:17:39 PM] --- Session Finished ---
+[5/14/2026, 1:17:49 PM] --- Checking Inbox for Threaded Replies ---
+[5/14/2026, 1:17:57 PM] SUCCESS: Threaded reply sent to ahnafsadik01857@gmail.com
+[5/14/2026, 1:18:03 PM] SUCCESS: Threaded reply sent to ahnafsadik01857@gmail.com
+[5/14/2026, 1:18:08 PM] SUCCESS: Threaded reply sent to ahnafsadik01857@gmail.com
+[5/14/2026, 1:18:08 PM] --- Session Finished ---
+[5/14/2026, 1:18:19 PM] --- Checking Inbox for Threaded Replies ---
+[5/14/2026, 1:18:27 PM] SUCCESS: Threaded reply sent to ahnafsadik01857@gmail.com
+[5/14/2026, 1:18:41 PM] SUCCESS: Threaded reply sent to ahnafsadik01857@gmail.com
+[5/14/2026, 1:18:46 PM] SUCCESS: Threaded reply sent to ahnafsadik01857@gmail.com
+[5/14/2026, 1:18:46 PM] --- Session Finished ---
+[5/14/2026, 1:18:49 PM] --- Checking Inbox for Threaded Replies ---
+[5/14/2026, 1:19:06 PM] SUCCESS: Threaded reply sent to ahnafsadik01857@gmail.com
+[5/14/2026, 1:19:13 PM] SUCCESS: Threaded reply sent to ahnafsadik016420@gmail.com
+[5/14/2026, 1:19:19 PM] --- Checking Inbox for Threaded Replies ---
+[5/14/2026, 1:19:20 PM] SUCCESS: Threaded reply sent to ahnafsadik01857@gmail.com
+[5/14/2026, 1:19:31 PM] SUCCESS: Threaded reply sent to ahnafsadik01857@gmail.com
+[5/14/2026, 1:19:31 PM] --- Session Finished ---
+[5/14/2026, 1:19:34 PM] SUCCESS: Threaded reply sent to ahnafsadik01857@gmail.com
+[5/14/2026, 1:19:41 PM] SUCCESS: Threaded reply sent to ahnafsadik01857@gmail.com
